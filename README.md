@@ -44,10 +44,42 @@ flutter run
 
 ## Screenshots
 
-![Login Screen](screenshots/login_screen.png)
-![Home Screen](screenshots/home_screen.png)
-![Likes Screen](screenshots/likes_screen.png)
-![Messages Screen](screenshots/messages_screen.png)
+**Login Screen**
+
+
+
+
+
+
+![1](https://github.com/zabi1647/instagram_ui/assets/101661680/331f29e3-691f-49e7-a809-3754b14253ed)
+
+**Home Screen**
+
+
+
+
+
+
+![2](https://github.com/zabi1647/instagram_ui/assets/101661680/86141714-4e0c-49d3-958c-95cf3d3ec462)
+
+**Likes Screen**
+
+
+
+
+
+
+![3](https://github.com/zabi1647/instagram_ui/assets/101661680/9d9dae1e-df3b-4b45-ad3c-dff28a4ead83)
+
+**Messages Screen**
+
+
+
+
+
+
+![4](https://github.com/zabi1647/instagram_ui/assets/101661680/cf83feeb-f7a7-41c7-9bec-588e1e14b48a)
+
 
 ## Acknowledgments
 
