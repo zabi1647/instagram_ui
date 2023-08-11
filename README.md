@@ -87,5 +87,5 @@ This project is inspired by the Instagram app. The UI design and structure are a
 
 ## Contact
 
-For any inquiries or questions, please contact [your_email@example.com](mailto:zubi1647@gmail.com).
+For any inquiries or questions, please contact[zubi1647@gmail.com].
 
